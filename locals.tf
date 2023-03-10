@@ -3,6 +3,7 @@ locals {
   repositories = toset([
     "dotfiles",
     "github-configuration",
+    "runbook",
     "szubersk",
     "szubersk.github.io",
     "userdata",
